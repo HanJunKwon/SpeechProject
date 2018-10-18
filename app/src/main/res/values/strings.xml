@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SpeeechProject</string>
+
+    <string-array name="api_list">
+        <item>Google API</item>
+        <item>Nexmo</item>
+        <item>Microsoft bing</item>
+        <item>IBM</item>
+        <item>공공 API</item>
+        <item>Amazon polly</item>
+        <item>Amazon transcibe</item>
+    </string-array>
+
+    <string name="TTS">Text to Speech</string>
+    <string name="STT">Speech to Text</string>
+</resources>
